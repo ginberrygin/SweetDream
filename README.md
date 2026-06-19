@@ -1,5 +1,5 @@
-# SweetDream
-Mannequin Website
+
+SweetDream Website
 Overview
 
 This project is a responsive mannequin fashion website designed to showcase modern clothing collections, fashion trends, and stylish displays. It provides users with an elegant browsing experience through a clean interface, attractive visuals, and easy navigation.
